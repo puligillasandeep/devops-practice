@@ -1,0 +1,2 @@
+Devops Day 2
+Learning Linus + Git
